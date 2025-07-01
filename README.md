@@ -66,10 +66,6 @@ FoodV/
 4. Push a la rama (`git push origin feature/AmazingFeature`)
 5. Abra un Pull Request
 
-## Licencia
-
-Este proyecto está bajo la Licencia MIT - vea el archivo [LICENSE](LICENSE) para más detalles.
-
 ## Contacto
 
 David Montaño - xavierdev25@icloud.com
